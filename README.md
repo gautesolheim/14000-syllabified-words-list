@@ -7,4 +7,4 @@ The data is collected from two sources: A list of 180 000 syllabified words rele
 
 ### Usage
 
-I generated these files because I needed a large list of syllabified common English words, preferably sorted by prevalence, and couldn't find one readily available on the internet. I hope this repo makes what I was looking for a tiny bit more accessible.
+I generated these files because I needed a large list of syllabified common English words, preferably sorted by prevalence, and couldn't find one readily available on the internet. I hope this repo makes this a tiny bit more accessible.
